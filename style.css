@@ -1,6 +1,6 @@
 html::before {
     content: "";
-    background: url(/img/bkg.jpg) no-repeat center;
+    background: url(/bkg.jpg) no-repeat center;
     background-size: cover;
     position: absolute;
     top: 0;
