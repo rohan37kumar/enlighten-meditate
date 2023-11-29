@@ -36,7 +36,7 @@ nav {
     justify-content: space-between;
     padding: 1.5rem 2rem;
     background-color: #EC8F5E;
-    transition: top 500ms ease-in-out;
+    /* transition: top 500ms ease-in-out; */
 }
 
 nav.scroll-up,
@@ -113,14 +113,4 @@ footer .heart {
 
 }
 
-/* .mission p::before {
-    content: '"';
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    opacity: 0.7;
-    position: absolute;
-
-    font-size: 100px;
-    color: white;
-    z-index: -5;
-} */
 
